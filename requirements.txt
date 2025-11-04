@@ -1,0 +1,6 @@
+tensorflow
+tensorflow-quantum
+cirq
+numpy
+matplotlib
+scikit-learn
